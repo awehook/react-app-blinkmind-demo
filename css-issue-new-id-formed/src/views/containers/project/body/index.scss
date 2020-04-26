@@ -1,0 +1,26 @@
+@import "../../../../utils/css-vars.scss";
+
+.sidebar {
+    width: 25%;
+    float: left;
+    padding: 15px;
+    height: 100vh;
+    background : $tthrooC1;
+    position: fixed;
+    margin-top: 90px;
+}
+
+.dv {
+    width: 75%;
+    float: left;
+    padding: 15px;
+    background : $tthrooBg;
+    height: 100vh;
+    margin-left: 25%;
+    margin-top: 90px;
+    overflow-y: scroll;
+}
+
+.mr-15 {
+    margin-right: 15px;
+}

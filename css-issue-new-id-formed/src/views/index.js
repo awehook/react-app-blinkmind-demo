@@ -1,0 +1,1 @@
+export { default as TthrooCalendar } from "./components/calendar";
